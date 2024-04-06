@@ -1,0 +1,301 @@
+Factory,Address_x,Latitude_x,Longitude_x,Warehouse,Distance,Distance_meters,Address_y,Latitude_y,Longitude_y,Volume,Closest Warehouse,Closest Distance (meters)
+Factory 1,"Hauptstraße 101, 12731 Hamburg",53.6031816,9.8174985,Warehouse 1,24.4 km,24402,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,15156
+Factory 1,"Hauptstraße 101, 12731 Hamburg",53.6031816,9.8174985,Warehouse 2,15.2 km,15156,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,15156
+Factory 1,"Hauptstraße 101, 12731 Hamburg",53.6031816,9.8174985,Warehouse 3,501 km,500631,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,15156
+Factory 2,"Hauptstraße 142, 15734 Hamburg",53.6033667,9.8176449,Warehouse 1,24.4 km,24364,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,15117
+Factory 2,"Hauptstraße 142, 15734 Hamburg",53.6033667,9.8176449,Warehouse 2,15.1 km,15117,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,15117
+Factory 2,"Hauptstraße 142, 15734 Hamburg",53.6033667,9.8176449,Warehouse 3,501 km,500592,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,15117
+Factory 3,"Südstraße 15, 10064 Düsseldorf",51.2199724,6.7723401,Warehouse 1,403 km,402855,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,222384
+Factory 3,"Südstraße 15, 10064 Düsseldorf",51.2199724,6.7723401,Warehouse 2,402 km,402199,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,222384
+Factory 3,"Südstraße 15, 10064 Düsseldorf",51.2199724,6.7723401,Warehouse 3,222 km,222384,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,222384
+Factory 4,"Weststraße 179, 15276 Leipzig",51.3396955,12.3730747,Warehouse 1,396 km,396249,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,395592
+Factory 4,"Weststraße 179, 15276 Leipzig",51.3396955,12.3730747,Warehouse 2,396 km,395592,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,395592
+Factory 4,"Weststraße 179, 15276 Leipzig",51.3396955,12.3730747,Warehouse 3,669 km,668653,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,395592
+Factory 5,"Hauptstraße 96, 17555 Düsseldorf",51.3067406,6.6765992,Warehouse 1,405 km,405341,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,207495
+Factory 5,"Hauptstraße 96, 17555 Düsseldorf",51.3067406,6.6765992,Warehouse 2,405 km,404685,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,207495
+Factory 5,"Hauptstraße 96, 17555 Düsseldorf",51.3067406,6.6765992,Warehouse 3,207 km,207495,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,207495
+Factory 6,"Dorfstraße 143, 12558 Cologne",50.937531,6.9602786,Warehouse 1,433 km,432870,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,255398
+Factory 6,"Dorfstraße 143, 12558 Cologne",50.937531,6.9602786,Warehouse 2,432 km,432214,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,255398
+Factory 6,"Dorfstraße 143, 12558 Cologne",50.937531,6.9602786,Warehouse 3,255 km,255398,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,255398
+Factory 7,"Waldweg 86, 10161 Cologne",50.937531,6.9602786,Warehouse 1,433 km,432870,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,255398
+Factory 7,"Waldweg 86, 10161 Cologne",50.937531,6.9602786,Warehouse 2,432 km,432214,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,255398
+Factory 7,"Waldweg 86, 10161 Cologne",50.937531,6.9602786,Warehouse 3,255 km,255398,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,255398
+Factory 8,"Weststraße 62, 15486 Munich",48.1351253,11.5819806,Warehouse 1,792 km,791814,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,791158
+Factory 8,"Weststraße 62, 15486 Munich",48.1351253,11.5819806,Warehouse 2,791 km,791158,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,791158
+Factory 8,"Weststraße 62, 15486 Munich",48.1351253,11.5819806,Warehouse 3,838 km,838404,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,791158
+Factory 9,"Dorfstraße 28, 16265 Essen",51.4556432,7.0115552,Warehouse 1,373 km,373075,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,217500
+Factory 9,"Dorfstraße 28, 16265 Essen",51.4556432,7.0115552,Warehouse 2,372 km,372419,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,217500
+Factory 9,"Dorfstraße 28, 16265 Essen",51.4556432,7.0115552,Warehouse 3,218 km,217500,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,217500
+Factory 10,"Weststraße 190, 13099 Cologne",50.8653511,7.107838,Warehouse 1,439 km,438882,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,281938
+Factory 10,"Weststraße 190, 13099 Cologne",50.8653511,7.107838,Warehouse 2,438 km,438225,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,281938
+Factory 10,"Weststraße 190, 13099 Cologne",50.8653511,7.107838,Warehouse 3,282 km,281938,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,281938
+Factory 11,"Hauptstraße 190, 10189 Berlin",52.4908047,13.360488,Warehouse 1,286 km,285725,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,285725
+Factory 11,"Hauptstraße 190, 10189 Berlin",52.4908047,13.360488,Warehouse 2,290 km,289634,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,285725
+Factory 11,"Hauptstraße 190, 10189 Berlin",52.4908047,13.360488,Warehouse 3,690 km,689552,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,285725
+Factory 12,"Bahnhofstraße 3, 15276 Essen",51.4019389,7.0672804,Warehouse 1,377 km,377213,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,235321
+Factory 12,"Bahnhofstraße 3, 15276 Essen",51.4019389,7.0672804,Warehouse 2,377 km,376556,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,235321
+Factory 12,"Bahnhofstraße 3, 15276 Essen",51.4019389,7.0672804,Warehouse 3,235 km,235321,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,235321
+Factory 13,"Hauptweg 155, 14859 Düsseldorf",51.3162265,6.6951235,Warehouse 1,399 km,398981,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,207500
+Factory 13,"Hauptweg 155, 14859 Düsseldorf",51.3162265,6.6951235,Warehouse 2,398 km,398324,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,207500
+Factory 13,"Hauptweg 155, 14859 Düsseldorf",51.3162265,6.6951235,Warehouse 3,208 km,207500,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,207500
+Factory 14,"Dorfstraße 51, 12454 Essen",51.4556432,7.0115552,Warehouse 1,373 km,373075,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,217500
+Factory 14,"Dorfstraße 51, 12454 Essen",51.4556432,7.0115552,Warehouse 2,372 km,372419,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,217500
+Factory 14,"Dorfstraße 51, 12454 Essen",51.4556432,7.0115552,Warehouse 3,218 km,217500,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,217500
+Factory 15,"Nordstraße 59, 10064 Leipzig",51.3508205,12.3745373,Warehouse 1,394 km,394207,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,393551
+Factory 15,"Nordstraße 59, 10064 Leipzig",51.3508205,12.3745373,Warehouse 2,394 km,393551,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,393551
+Factory 15,"Nordstraße 59, 10064 Leipzig",51.3508205,12.3745373,Warehouse 3,667 km,666612,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,393551
+Factory 16,"Nordstraße 113, 17555 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 16,"Nordstraße 113, 17555 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 16,"Nordstraße 113, 17555 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 17,"Weststraße 12, 17555 Berlin",52.4497293,13.5025196,Warehouse 1,299 km,298808,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,298808
+Factory 17,"Weststraße 12, 17555 Berlin",52.4497293,13.5025196,Warehouse 2,303 km,302716,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,298808
+Factory 17,"Weststraße 12, 17555 Berlin",52.4497293,13.5025196,Warehouse 3,703 km,703373,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,298808
+Factory 18,"Schulstraße 113, 15390 Düsseldorf",51.223629,6.7716286,Warehouse 1,404 km,403680,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,223209
+Factory 18,"Schulstraße 113, 15390 Düsseldorf",51.223629,6.7716286,Warehouse 2,403 km,403024,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,223209
+Factory 18,"Schulstraße 113, 15390 Düsseldorf",51.223629,6.7716286,Warehouse 3,223 km,223209,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,223209
+Factory 19,"Hauptstraße 81, 17989 Frankfurt",50.1442297,8.5609541,Warehouse 1,490 km,490161,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,446253
+Factory 19,"Hauptstraße 81, 17989 Frankfurt",50.1442297,8.5609541,Warehouse 2,490 km,489505,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,446253
+Factory 19,"Hauptstraße 81, 17989 Frankfurt",50.1442297,8.5609541,Warehouse 3,446 km,446253,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,446253
+Factory 20,"Schulstraße 54, 10860 Berlin",52.5531908,13.3705711,Warehouse 1,275 km,275367,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,275367
+Factory 20,"Schulstraße 54, 10860 Berlin",52.5531908,13.3705711,Warehouse 2,279 km,279276,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,275367
+Factory 20,"Schulstraße 54, 10860 Berlin",52.5531908,13.3705711,Warehouse 3,692 km,692271,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,275367
+Factory 21,"Dorfstraße 129, 17215 Düsseldorf",51.2585971,6.9068283,Warehouse 1,397 km,396713,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,235223
+Factory 21,"Dorfstraße 129, 17215 Düsseldorf",51.2585971,6.9068283,Warehouse 2,396 km,396057,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,235223
+Factory 21,"Dorfstraße 129, 17215 Düsseldorf",51.2585971,6.9068283,Warehouse 3,235 km,235223,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,235223
+Factory 22,"Schulstraße 172, 13073 Hamburg",53.5488282,9.9871703,Warehouse 1,5.4 km,5442,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,0
+Factory 22,"Schulstraße 172, 13073 Hamburg",53.5488282,9.9871703,Warehouse 2,1 m,0,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,0
+Factory 22,"Schulstraße 172, 13073 Hamburg",53.5488282,9.9871703,Warehouse 3,495 km,495253,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,0
+Factory 23,"Hauptweg 68, 17734 Leipzig",51.3424409,12.4174584,Warehouse 1,399 km,399453,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,398797
+Factory 23,"Hauptweg 68, 17734 Leipzig",51.3424409,12.4174584,Warehouse 2,399 km,398797,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,398797
+Factory 23,"Hauptweg 68, 17734 Leipzig",51.3424409,12.4174584,Warehouse 3,672 km,671858,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,398797
+Factory 24,"Nordstraße 38, 16420 Düsseldorf",51.2370478,6.7788851,Warehouse 1,400 km,400196,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,224152
+Factory 24,"Nordstraße 38, 16420 Düsseldorf",51.2370478,6.7788851,Warehouse 2,400 km,399539,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,224152
+Factory 24,"Nordstraße 38, 16420 Düsseldorf",51.2370478,6.7788851,Warehouse 3,224 km,224152,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,224152
+Factory 25,"Dorfstraße 198, 18996 Dortmund",51.5221014,7.521867,Warehouse 1,349 km,349430,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,254174
+Factory 25,"Dorfstraße 198, 18996 Dortmund",51.5221014,7.521867,Warehouse 2,349 km,348774,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,254174
+Factory 25,"Dorfstraße 198, 18996 Dortmund",51.5221014,7.521867,Warehouse 3,254 km,254174,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,254174
+Factory 26,"Hauptstraße 124, 16331 Stuttgart",48.7308609,9.0989664,Warehouse 1,665 km,664836,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,627024
+Factory 26,"Hauptstraße 124, 16331 Stuttgart",48.7308609,9.0989664,Warehouse 2,664 km,664180,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,627024
+Factory 26,"Hauptstraße 124, 16331 Stuttgart",48.7308609,9.0989664,Warehouse 3,627 km,627024,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,627024
+Factory 27,"Gartenstraße 187, 13385 Stuttgart",48.7336033,9.1056486,Warehouse 1,666 km,665748,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,627936
+Factory 27,"Gartenstraße 187, 13385 Stuttgart",48.7336033,9.1056486,Warehouse 2,665 km,665091,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,627936
+Factory 27,"Gartenstraße 187, 13385 Stuttgart",48.7336033,9.1056486,Warehouse 3,628 km,627936,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,627936
+Factory 28,"Gartenstraße 195, 13561 Cologne",50.8983975,7.0257356,Warehouse 1,438 km,437930,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,280986
+Factory 28,"Gartenstraße 195, 13561 Cologne",50.8983975,7.0257356,Warehouse 2,437 km,437274,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,280986
+Factory 28,"Gartenstraße 195, 13561 Cologne",50.8983975,7.0257356,Warehouse 3,281 km,280986,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,280986
+Factory 29,"Bahnhofstraße 199, 17215 Hamburg",53.475751,9.7887409,Warehouse 1,31.1 km,31087,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,30431
+Factory 29,"Bahnhofstraße 199, 17215 Hamburg",53.475751,9.7887409,Warehouse 2,30.4 km,30431,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,30431
+Factory 29,"Bahnhofstraße 199, 17215 Hamburg",53.475751,9.7887409,Warehouse 3,478 km,477820,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,30431
+Factory 30,"Südstraße 168, 11267 Cologne",50.8574326,6.9301388,Warehouse 1,445 km,444585,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,265846
+Factory 30,"Südstraße 168, 11267 Cologne",50.8574326,6.9301388,Warehouse 2,444 km,443928,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,265846
+Factory 30,"Südstraße 168, 11267 Cologne",50.8574326,6.9301388,Warehouse 3,266 km,265846,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,265846
+Factory 31,"Schulstraße 11, 17270 Düsseldorf",51.22385569999999,6.7712235,Warehouse 1,404 km,403643,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,223172
+Factory 31,"Schulstraße 11, 17270 Düsseldorf",51.22385569999999,6.7712235,Warehouse 2,403 km,402987,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,223172
+Factory 31,"Schulstraße 11, 17270 Düsseldorf",51.22385569999999,6.7712235,Warehouse 3,223 km,223172,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,223172
+Factory 32,"Südstraße 151, 11585 Essen",52.7249182,8.0026843,Warehouse 1,190 km,190279,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,189622
+Factory 32,"Südstraße 151, 11585 Essen",52.7249182,8.0026843,Warehouse 2,190 km,189622,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,189622
+Factory 32,"Südstraße 151, 11585 Essen",52.7249182,8.0026843,Warehouse 3,300 km,300276,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,189622
+Factory 33,"Gartenstraße 144, 10466 Leipzig",51.3396955,12.3730747,Warehouse 1,396 km,396249,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,395592
+Factory 33,"Gartenstraße 144, 10466 Leipzig",51.3396955,12.3730747,Warehouse 2,396 km,395592,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,395592
+Factory 33,"Gartenstraße 144, 10466 Leipzig",51.3396955,12.3730747,Warehouse 3,669 km,668653,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,395592
+Factory 34,"Südstraße 113, 14297 Leipzig",51.3183994,12.3738226,Warehouse 1,399 km,399014,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,398357
+Factory 34,"Südstraße 113, 14297 Leipzig",51.3183994,12.3738226,Warehouse 2,398 km,398357,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,398357
+Factory 34,"Südstraße 113, 14297 Leipzig",51.3183994,12.3738226,Warehouse 3,671 km,670553,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,398357
+Factory 35,"Hauptstraße 140, 18226 Munich",48.075246,11.6880986,Warehouse 1,804 km,803917,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,803261
+Factory 35,"Hauptstraße 140, 18226 Munich",48.075246,11.6880986,Warehouse 2,803 km,803261,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,803261
+Factory 35,"Hauptstraße 140, 18226 Munich",48.075246,11.6880986,Warehouse 3,851 km,850507,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,803261
+Factory 36,"Dorfstraße 9, 17734 Frankfurt",52.2827727,14.4430946,Warehouse 1,377 km,376695,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,376695
+Factory 36,"Dorfstraße 9, 17734 Frankfurt",52.2827727,14.4430946,Warehouse 2,381 km,380604,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,376695
+Factory 36,"Dorfstraße 9, 17734 Frankfurt",52.2827727,14.4430946,Warehouse 3,757 km,757039,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,376695
+Factory 37,"Gartenstraße 48, 14555 Essen",51.3666474,6.933991499999999,Warehouse 1,384 km,384471,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,236653
+Factory 37,"Gartenstraße 48, 14555 Essen",51.3666474,6.933991499999999,Warehouse 2,384 km,383814,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,236653
+Factory 37,"Gartenstraße 48, 14555 Essen",51.3666474,6.933991499999999,Warehouse 3,237 km,236653,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,236653
+Factory 38,"Bahnhofstraße 54, 17849 Hamburg",53.4690741,9.7918552,Warehouse 1,29.9 km,29916,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,29260
+Factory 38,"Bahnhofstraße 54, 17849 Hamburg",53.4690741,9.7918552,Warehouse 2,29.3 km,29260,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,29260
+Factory 38,"Bahnhofstraße 54, 17849 Hamburg",53.4690741,9.7918552,Warehouse 3,476 km,475645,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,29260
+Factory 39,"Hauptstraße 116, 17849 Dortmund",51.4890159,7.3252537,Warehouse 1,357 km,357015,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,251408
+Factory 39,"Hauptstraße 116, 17849 Dortmund",51.4890159,7.3252537,Warehouse 2,356 km,356359,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,251408
+Factory 39,"Hauptstraße 116, 17849 Dortmund",51.4890159,7.3252537,Warehouse 3,251 km,251408,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,251408
+Factory 40,"Nordstraße 166, 13890 Berlin",52.5430123,13.3434685,Warehouse 1,276 km,276439,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,276439
+Factory 40,"Nordstraße 166, 13890 Berlin",52.5430123,13.3434685,Warehouse 2,280 km,280348,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,276439
+Factory 40,"Nordstraße 166, 13890 Berlin",52.5430123,13.3434685,Warehouse 3,689 km,689393,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,276439
+Factory 41,"Bahnhofstraße 112, 12731 Dortmund",51.5166193,7.4552151,Warehouse 1,351 km,350815,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,251919
+Factory 41,"Bahnhofstraße 112, 12731 Dortmund",51.5166193,7.4552151,Warehouse 2,350 km,350159,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,251919
+Factory 41,"Bahnhofstraße 112, 12731 Dortmund",51.5166193,7.4552151,Warehouse 3,252 km,251919,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,251919
+Factory 42,"Gartenstraße 93, 12047 Essen",51.4556432,7.0115552,Warehouse 1,373 km,373075,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,217500
+Factory 42,"Gartenstraße 93, 12047 Essen",51.4556432,7.0115552,Warehouse 2,372 km,372419,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,217500
+Factory 42,"Gartenstraße 93, 12047 Essen",51.4556432,7.0115552,Warehouse 3,218 km,217500,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,217500
+Factory 43,"Schulstraße 54, 17892 Munich",48.1473338,11.5360281,Warehouse 1,792 km,792446,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,791789
+Factory 43,"Schulstraße 54, 17892 Munich",48.1473338,11.5360281,Warehouse 2,792 km,791789,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,791789
+Factory 43,"Schulstraße 54, 17892 Munich",48.1473338,11.5360281,Warehouse 3,839 km,839036,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,791789
+Factory 44,"Südstraße 161, 18154 Hamburg",53.5488282,9.9871703,Warehouse 1,5.4 km,5442,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,0
+Factory 44,"Südstraße 161, 18154 Hamburg",53.5488282,9.9871703,Warehouse 2,1 m,0,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,0
+Factory 44,"Südstraße 161, 18154 Hamburg",53.5488282,9.9871703,Warehouse 3,495 km,495253,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,0
+Factory 45,"Hauptstraße 21, 12433 Cologne",50.8960278,6.9923139,Warehouse 1,441 km,440786,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,267585
+Factory 45,"Hauptstraße 21, 12433 Cologne",50.8960278,6.9923139,Warehouse 2,440 km,440130,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,267585
+Factory 45,"Hauptstraße 21, 12433 Cologne",50.8960278,6.9923139,Warehouse 3,268 km,267585,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,267585
+Factory 46,"Nordstraße 135, 14426 Cologne",50.9682717,6.9585076,Warehouse 1,429 km,428884,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,254614
+Factory 46,"Nordstraße 135, 14426 Cologne",50.9682717,6.9585076,Warehouse 2,428 km,428227,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,254614
+Factory 46,"Nordstraße 135, 14426 Cologne",50.9682717,6.9585076,Warehouse 3,255 km,254614,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,254614
+Factory 47,"Hauptstraße 176, 11267 Hamburg",53.6033667,9.8176449,Warehouse 1,24.4 km,24364,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,15117
+Factory 47,"Hauptstraße 176, 11267 Hamburg",53.6033667,9.8176449,Warehouse 2,15.1 km,15117,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,15117
+Factory 47,"Hauptstraße 176, 11267 Hamburg",53.6033667,9.8176449,Warehouse 3,501 km,500592,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,15117
+Factory 48,"Hauptweg 158, 18666 Hamburg",53.5286497,9.8457842,Warehouse 1,22.7 km,22722,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,20826
+Factory 48,"Hauptweg 158, 18666 Hamburg",53.5286497,9.8457842,Warehouse 2,20.8 km,20826,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,20826
+Factory 48,"Hauptweg 158, 18666 Hamburg",53.5286497,9.8457842,Warehouse 3,494 km,493528,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,20826
+Factory 49,"Hauptweg 182, 13943 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 49,"Hauptweg 182, 13943 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 49,"Hauptweg 182, 13943 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 50,"Schulstraße 30, 16396 Dortmund",51.4752097,7.5903504,Warehouse 1,352 km,352202,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,265324
+Factory 50,"Schulstraße 30, 16396 Dortmund",51.4752097,7.5903504,Warehouse 2,352 km,351546,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,265324
+Factory 50,"Schulstraße 30, 16396 Dortmund",51.4752097,7.5903504,Warehouse 3,265 km,265324,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,265324
+Factory 51,"Hauptstraße 61, 18529 Berlin",52.47983019999999,13.3454302,Warehouse 1,283 km,283460,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,283460
+Factory 51,"Hauptstraße 61, 18529 Berlin",52.47983019999999,13.3454302,Warehouse 2,287 km,287369,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,283460
+Factory 51,"Hauptstraße 61, 18529 Berlin",52.47983019999999,13.3454302,Warehouse 3,687 km,687287,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,283460
+Factory 52,"Bahnhofstraße 192, 13556 Hamburg",53.475751,9.7887409,Warehouse 1,31.1 km,31087,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,30431
+Factory 52,"Bahnhofstraße 192, 13556 Hamburg",53.475751,9.7887409,Warehouse 2,30.4 km,30431,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,30431
+Factory 52,"Bahnhofstraße 192, 13556 Hamburg",53.475751,9.7887409,Warehouse 3,478 km,477820,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,30431
+Factory 53,"Hauptstraße 158, 16235 Berlin",52.48966610000001,13.3600224,Warehouse 1,285 km,284935,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,284935
+Factory 53,"Hauptstraße 158, 16235 Berlin",52.48966610000001,13.3600224,Warehouse 2,289 km,288844,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,284935
+Factory 53,"Hauptstraße 158, 16235 Berlin",52.48966610000001,13.3600224,Warehouse 3,689 km,688762,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,284935
+Factory 54,"Hauptweg 124, 12731 Frankfurt",50.1109221,8.6821267,Warehouse 1,497 km,496589,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,454117
+Factory 54,"Hauptweg 124, 12731 Frankfurt",50.1109221,8.6821267,Warehouse 2,496 km,495933,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,454117
+Factory 54,"Hauptweg 124, 12731 Frankfurt",50.1109221,8.6821267,Warehouse 3,454 km,454117,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,454117
+Factory 55,"Dorfstraße 93, 17849 Essen",51.4556432,7.0115552,Warehouse 1,373 km,373075,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,217500
+Factory 55,"Dorfstraße 93, 17849 Essen",51.4556432,7.0115552,Warehouse 2,372 km,372419,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,217500
+Factory 55,"Dorfstraße 93, 17849 Essen",51.4556432,7.0115552,Warehouse 3,218 km,217500,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,217500
+Factory 56,"Dorfstraße 99, 13104 Berlin",52.4473727,13.4929191,Warehouse 1,296 km,295762,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,295762
+Factory 56,"Dorfstraße 99, 13104 Berlin",52.4473727,13.4929191,Warehouse 2,300 km,299670,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,295762
+Factory 56,"Dorfstraße 99, 13104 Berlin",52.4473727,13.4929191,Warehouse 3,700 km,699588,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,295762
+Factory 57,"Bahnhofstraße 160, 11016 Berlin",52.595495,13.4335497,Warehouse 1,279 km,278708,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,278708
+Factory 57,"Bahnhofstraße 160, 11016 Berlin",52.595495,13.4335497,Warehouse 2,283 km,282616,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,278708
+Factory 57,"Bahnhofstraße 160, 11016 Berlin",52.595495,13.4335497,Warehouse 3,720 km,719914,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,278708
+Factory 58,"Hauptstraße 128, 16863 Düsseldorf",51.1653155,6.8742439,Warehouse 1,412 km,411695,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,237722
+Factory 58,"Hauptstraße 128, 16863 Düsseldorf",51.1653155,6.8742439,Warehouse 2,411 km,411038,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,237722
+Factory 58,"Hauptstraße 128, 16863 Düsseldorf",51.1653155,6.8742439,Warehouse 3,238 km,237722,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,237722
+Factory 59,"Südstraße 54, 13104 Munich",48.1351253,11.5819806,Warehouse 1,792 km,791814,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,791158
+Factory 59,"Südstraße 54, 13104 Munich",48.1351253,11.5819806,Warehouse 2,791 km,791158,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,791158
+Factory 59,"Südstraße 54, 13104 Munich",48.1351253,11.5819806,Warehouse 3,838 km,838404,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,791158
+Factory 60,"Gartenstraße 24, 17099 Leipzig",51.3396955,12.3730747,Warehouse 1,396 km,396249,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,395592
+Factory 60,"Gartenstraße 24, 17099 Leipzig",51.3396955,12.3730747,Warehouse 2,396 km,395592,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,395592
+Factory 60,"Gartenstraße 24, 17099 Leipzig",51.3396955,12.3730747,Warehouse 3,669 km,668653,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,395592
+Factory 61,"Hauptweg 194, 12558 Munich",48.1750545,11.5699711,Warehouse 1,788 km,787548,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,786891
+Factory 61,"Hauptweg 194, 12558 Munich",48.1750545,11.5699711,Warehouse 2,787 km,786891,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,786891
+Factory 61,"Hauptweg 194, 12558 Munich",48.1750545,11.5699711,Warehouse 3,834 km,834138,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,786891
+Factory 62,"Schulstraße 17, 13561 Leipzig",51.3284895,12.4477515,Warehouse 1,401 km,400701,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,400045
+Factory 62,"Schulstraße 17, 13561 Leipzig",51.3284895,12.4477515,Warehouse 2,400 km,400045,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,400045
+Factory 62,"Schulstraße 17, 13561 Leipzig",51.3284895,12.4477515,Warehouse 3,673 km,673106,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,400045
+Factory 63,"Hauptstraße 43, 15578 Dortmund",51.4889386,7.3252424,Warehouse 1,357 km,357024,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,251416
+Factory 63,"Hauptstraße 43, 15578 Dortmund",51.4889386,7.3252424,Warehouse 2,356 km,356368,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,251416
+Factory 63,"Hauptstraße 43, 15578 Dortmund",51.4889386,7.3252424,Warehouse 3,251 km,251416,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,251416
+Factory 64,"Waldweg 170, 16278 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 64,"Waldweg 170, 16278 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 64,"Waldweg 170, 16278 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 65,"Weststraße 50, 12731 Düsseldorf",51.16600520000001,6.867402299999999,Warehouse 1,412 km,412116,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,238142
+Factory 65,"Weststraße 50, 12731 Düsseldorf",51.16600520000001,6.867402299999999,Warehouse 2,411 km,411459,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,238142
+Factory 65,"Weststraße 50, 12731 Düsseldorf",51.16600520000001,6.867402299999999,Warehouse 3,238 km,238142,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,238142
+Factory 66,"Nordstraße 60, 16949 Essen",51.4560206,7.0794574,Warehouse 1,368 km,367863,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,232838
+Factory 66,"Nordstraße 60, 16949 Essen",51.4560206,7.0794574,Warehouse 2,367 km,367206,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,232838
+Factory 66,"Nordstraße 60, 16949 Essen",51.4560206,7.0794574,Warehouse 3,233 km,232838,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,232838
+Factory 67,"Waldweg 36, 16873 Leipzig",51.3396955,12.3730747,Warehouse 1,396 km,396249,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,395592
+Factory 67,"Waldweg 36, 16873 Leipzig",51.3396955,12.3730747,Warehouse 2,396 km,395592,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,395592
+Factory 67,"Waldweg 36, 16873 Leipzig",51.3396955,12.3730747,Warehouse 3,669 km,668653,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,395592
+Factory 68,"Hauptstraße 144, 14426 Cologne",50.8680019,7.044264099999999,Warehouse 1,437 km,437079,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,280136
+Factory 68,"Hauptstraße 144, 14426 Cologne",50.8680019,7.044264099999999,Warehouse 2,436 km,436423,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,280136
+Factory 68,"Hauptstraße 144, 14426 Cologne",50.8680019,7.044264099999999,Warehouse 3,280 km,280136,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,280136
+Factory 69,"Waldweg 92, 15311 Hamburg",53.6554657,10.1331674,Warehouse 1,12.9 km,12928,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,12928
+Factory 69,"Waldweg 92, 15311 Hamburg",53.6554657,10.1331674,Warehouse 2,17.7 km,17721,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,12928
+Factory 69,"Waldweg 92, 15311 Hamburg",53.6554657,10.1331674,Warehouse 3,508 km,508010,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,12928
+Factory 70,"Schulstraße 191, 17734 Munich",48.1495261,11.5351481,Warehouse 1,792 km,792290,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,791633
+Factory 70,"Schulstraße 191, 17734 Munich",48.1495261,11.5351481,Warehouse 2,792 km,791633,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,791633
+Factory 70,"Schulstraße 191, 17734 Munich",48.1495261,11.5351481,Warehouse 3,839 km,838880,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,791633
+Factory 71,"Gartenstraße 186, 12047 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 71,"Gartenstraße 186, 12047 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 71,"Gartenstraße 186, 12047 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 72,"Weststraße 86, 15675 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 72,"Weststraße 86, 15675 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 72,"Weststraße 86, 15675 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 73,"Bahnhofstraße 70, 12612 Berlin",52.5908871,13.4423814,Warehouse 1,279 km,278908,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,278908
+Factory 73,"Bahnhofstraße 70, 12612 Berlin",52.5908871,13.4423814,Warehouse 2,283 km,282817,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,278908
+Factory 73,"Bahnhofstraße 70, 12612 Berlin",52.5908871,13.4423814,Warehouse 3,720 km,720114,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,278908
+Factory 74,"Dorfstraße 8, 12454 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 74,"Dorfstraße 8, 12454 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 74,"Dorfstraße 8, 12454 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 75,"Dorfstraße 6, 17916 Frankfurt",52.28237069999999,14.4449585,Warehouse 1,377 km,376560,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,376560
+Factory 75,"Dorfstraße 6, 17916 Frankfurt",52.28237069999999,14.4449585,Warehouse 2,380 km,380468,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,376560
+Factory 75,"Dorfstraße 6, 17916 Frankfurt",52.28237069999999,14.4449585,Warehouse 3,757 km,756904,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,376560
+Factory 76,"Gartenstraße 168, 13843 Cologne",50.8994914,7.0229827,Warehouse 1,437 km,437282,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,280338
+Factory 76,"Gartenstraße 168, 13843 Cologne",50.8994914,7.0229827,Warehouse 2,437 km,436625,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,280338
+Factory 76,"Gartenstraße 168, 13843 Cologne",50.8994914,7.0229827,Warehouse 3,280 km,280338,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,280338
+Factory 77,"Schulstraße 147, 14658 Cologne",50.9994337,6.8693211,Warehouse 1,429 km,429021,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,249882
+Factory 77,"Schulstraße 147, 14658 Cologne",50.9994337,6.8693211,Warehouse 2,428 km,428364,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,249882
+Factory 77,"Schulstraße 147, 14658 Cologne",50.9994337,6.8693211,Warehouse 3,250 km,249882,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,249882
+Factory 78,"Nordstraße 19, 11016 Berlin",52.44649769999999,13.4928387,Warehouse 1,296 km,295717,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,295717
+Factory 78,"Nordstraße 19, 11016 Berlin",52.44649769999999,13.4928387,Warehouse 2,300 km,299625,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,295717
+Factory 78,"Nordstraße 19, 11016 Berlin",52.44649769999999,13.4928387,Warehouse 3,700 km,699543,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,295717
+Factory 79,"Waldweg 117, 13561 Leipzig",51.2903593,12.3681119,Warehouse 1,402 km,402299,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,401642
+Factory 79,"Waldweg 117, 13561 Leipzig",51.2903593,12.3681119,Warehouse 2,402 km,401642,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,401642
+Factory 79,"Waldweg 117, 13561 Leipzig",51.2903593,12.3681119,Warehouse 3,667 km,666980,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,401642
+Factory 80,"Südstraße 129, 10769 Düsseldorf",51.220071,6.7723099,Warehouse 1,403 km,402853,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,222381
+Factory 80,"Südstraße 129, 10769 Düsseldorf",51.220071,6.7723099,Warehouse 2,402 km,402196,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,222381
+Factory 80,"Südstraße 129, 10769 Düsseldorf",51.220071,6.7723099,Warehouse 3,222 km,222381,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,222381
+Factory 81,"Weststraße 34, 17270 Leipzig",51.303751,12.2124713,Warehouse 1,390 km,390197,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,389541
+Factory 81,"Weststraße 34, 17270 Leipzig",51.303751,12.2124713,Warehouse 2,390 km,389541,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,389541
+Factory 81,"Weststraße 34, 17270 Leipzig",51.303751,12.2124713,Warehouse 3,652 km,652402,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,389541
+Factory 82,"Südstraße 16, 17270 Stuttgart",48.7758459,9.1829321,Warehouse 1,657 km,656835,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,631530
+Factory 82,"Südstraße 16, 17270 Stuttgart",48.7758459,9.1829321,Warehouse 2,656 km,656179,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,631530
+Factory 82,"Südstraße 16, 17270 Stuttgart",48.7758459,9.1829321,Warehouse 3,632 km,631530,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,631530
+Factory 83,"Dorfstraße 93, 18666 Düsseldorf",51.2542292,6.699631999999999,Warehouse 1,404 km,403801,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,212549
+Factory 83,"Dorfstraße 93, 18666 Düsseldorf",51.2542292,6.699631999999999,Warehouse 2,403 km,403145,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,212549
+Factory 83,"Dorfstraße 93, 18666 Düsseldorf",51.2542292,6.699631999999999,Warehouse 3,213 km,212549,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,212549
+Factory 84,"Gartenstraße 154, 17208 Düsseldorf",51.2315059,6.7834932,Warehouse 1,401 km,401132,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,224710
+Factory 84,"Gartenstraße 154, 17208 Düsseldorf",51.2315059,6.7834932,Warehouse 2,400 km,400476,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,224710
+Factory 84,"Gartenstraße 154, 17208 Düsseldorf",51.2315059,6.7834932,Warehouse 3,225 km,224710,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,224710
+Factory 85,"Dorfstraße 185, 15618 Hamburg",53.5488282,9.9871703,Warehouse 1,5.4 km,5442,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,0
+Factory 85,"Dorfstraße 185, 15618 Hamburg",53.5488282,9.9871703,Warehouse 2,1 m,0,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,0
+Factory 85,"Dorfstraße 185, 15618 Hamburg",53.5488282,9.9871703,Warehouse 3,495 km,495253,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,0
+Factory 86,"Hauptstraße 190, 18392 Frankfurt",50.1507296,8.5536658,Warehouse 1,491 km,491054,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,447145
+Factory 86,"Hauptstraße 190, 18392 Frankfurt",50.1507296,8.5536658,Warehouse 2,490 km,490398,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,447145
+Factory 86,"Hauptstraße 190, 18392 Frankfurt",50.1507296,8.5536658,Warehouse 3,447 km,447145,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,447145
+Factory 87,"Dorfstraße 144, 17208 Cologne",50.937531,6.9602786,Warehouse 1,433 km,432870,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,255398
+Factory 87,"Dorfstraße 144, 17208 Cologne",50.937531,6.9602786,Warehouse 2,432 km,432214,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,255398
+Factory 87,"Dorfstraße 144, 17208 Cologne",50.937531,6.9602786,Warehouse 3,255 km,255398,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,255398
+Factory 88,"Weststraße 85, 18226 Leipzig",51.3035457,12.2039606,Warehouse 1,391 km,390790,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,390134
+Factory 88,"Weststraße 85, 18226 Leipzig",51.3035457,12.2039606,Warehouse 2,390 km,390134,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,390134
+Factory 88,"Weststraße 85, 18226 Leipzig",51.3035457,12.2039606,Warehouse 3,652 km,651809,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,390134
+Factory 89,"Bahnhofstraße 101, 11267 Düsseldorf",51.3298081,6.7826635,Warehouse 1,390 km,390497,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,218875
+Factory 89,"Bahnhofstraße 101, 11267 Düsseldorf",51.3298081,6.7826635,Warehouse 2,390 km,389840,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,218875
+Factory 89,"Bahnhofstraße 101, 11267 Düsseldorf",51.3298081,6.7826635,Warehouse 3,219 km,218875,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,218875
+Factory 90,"Weststraße 69, 18322 Düsseldorf",51.1657363,6.866879699999999,Warehouse 1,412 km,412145,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,238172
+Factory 90,"Weststraße 69, 18322 Düsseldorf",51.1657363,6.866879699999999,Warehouse 2,411 km,411489,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,238172
+Factory 90,"Weststraße 69, 18322 Düsseldorf",51.1657363,6.866879699999999,Warehouse 3,238 km,238172,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,238172
+Factory 91,"Schulstraße 138, 17555 Cologne",50.9986423,6.8688327,Warehouse 1,429 km,429157,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,250018
+Factory 91,"Schulstraße 138, 17555 Cologne",50.9986423,6.8688327,Warehouse 2,429 km,428501,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,250018
+Factory 91,"Schulstraße 138, 17555 Cologne",50.9986423,6.8688327,Warehouse 3,250 km,250018,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,250018
+Factory 92,"Gartenstraße 96, 15675 Leipzig",51.3502731,12.4849606,Warehouse 1,399 km,398704,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,398048
+Factory 92,"Gartenstraße 96, 15675 Leipzig",51.3502731,12.4849606,Warehouse 2,398 km,398048,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,398048
+Factory 92,"Gartenstraße 96, 15675 Leipzig",51.3502731,12.4849606,Warehouse 3,671 km,671109,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,398048
+Factory 93,"Nordstraße 4, 18529 Berlin",52.5511112,13.2551268,Warehouse 1,274 km,273814,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,273814
+Factory 93,"Nordstraße 4, 18529 Berlin",52.5511112,13.2551268,Warehouse 2,278 km,277723,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,273814
+Factory 93,"Nordstraße 4, 18529 Berlin",52.5511112,13.2551268,Warehouse 3,690 km,690315,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,273814
+Factory 94,"Waldweg 128, 10860 Dortmund",51.5135872,7.465298100000001,Warehouse 1,355 km,355368,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,256594
+Factory 94,"Waldweg 128, 10860 Dortmund",51.5135872,7.465298100000001,Warehouse 2,355 km,354712,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,256594
+Factory 94,"Waldweg 128, 10860 Dortmund",51.5135872,7.465298100000001,Warehouse 3,257 km,256594,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,256594
+Factory 95,"Nordstraße 178, 10769 Cologne",50.9680416,6.958569,Warehouse 1,429 km,428880,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 3,254610
+Factory 95,"Nordstraße 178, 10769 Cologne",50.9680416,6.958569,Warehouse 2,428 km,428223,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 3,254610
+Factory 95,"Nordstraße 178, 10769 Cologne",50.9680416,6.958569,Warehouse 3,255 km,254610,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 3,254610
+Factory 96,"Hauptstraße 189, 11267 Hamburg",53.6005978,9.826248,Warehouse 1,18.3 km,18331,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,13660
+Factory 96,"Hauptstraße 189, 11267 Hamburg",53.6005978,9.826248,Warehouse 2,13.7 km,13660,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,13660
+Factory 96,"Hauptstraße 189, 11267 Hamburg",53.6005978,9.826248,Warehouse 3,500 km,499813,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,13660
+Factory 97,"Dorfstraße 67, 10769 Hamburg",53.5488282,9.9871703,Warehouse 1,5.4 km,5442,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,0
+Factory 97,"Dorfstraße 67, 10769 Hamburg",53.5488282,9.9871703,Warehouse 2,1 m,0,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,0
+Factory 97,"Dorfstraße 67, 10769 Hamburg",53.5488282,9.9871703,Warehouse 3,495 km,495253,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,0
+Factory 98,"Hauptstraße 74, 18433 Berlin",52.4746118,13.3386108,Warehouse 1,284 km,283773,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 1,283773
+Factory 98,"Hauptstraße 74, 18433 Berlin",52.4746118,13.3386108,Warehouse 2,288 km,287682,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 1,283773
+Factory 98,"Hauptstraße 74, 18433 Berlin",52.4746118,13.3386108,Warehouse 3,688 km,687600,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 1,283773
+Factory 99,"Gartenstraße 81, 13556 Munich",48.2296031,11.4775528,Warehouse 1,785 km,784983,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,784327
+Factory 99,"Gartenstraße 81, 13556 Munich",48.2296031,11.4775528,Warehouse 2,784 km,784327,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,784327
+Factory 99,"Gartenstraße 81, 13556 Munich",48.2296031,11.4775528,Warehouse 3,831 km,831368,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,784327
+Factory 100,"Nordstraße 154, 16278 Leipzig",51.3396955,12.3730747,Warehouse 1,396 km,396249,"Hauptstraße 200, 22089 Hamburg",53.56738060000001,10.0475077,5,Warehouse 2,395592
+Factory 100,"Nordstraße 154, 16278 Leipzig",51.3396955,12.3730747,Warehouse 2,396 km,395592,"Gartenstraße 50, 20457 Hamburg",53.5488282,9.9871703,5,Warehouse 2,395592
+Factory 100,"Nordstraße 154, 16278 Leipzig",51.3396955,12.3730747,Warehouse 3,669 km,668653,"Coolsingel 42, 3011 AD Rotterdam",51.9218933,4.4797448,5,Warehouse 2,395592
